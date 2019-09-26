@@ -14,3 +14,9 @@ Other features include:
 - Put clipboard url as a wallpaper
 
 Previously it also had the ability to add sticky notes, but that fell out of use and removed due to bloat.
+
+# Installation
+
+Install dependencies through `yarn` or `npm install`
+Build for development with `yarn start` or `npm start`
+Build for production with `yarn make` or `npm run make`

@@ -1,8 +1,8 @@
-# desktopwallpaper
+# Desktop Wallpaper
 
 An Electron app, bootstrapped by electron-forge, uses VueJS/Vuex for the view.
 
-# description
+# Description
 
 Main purpose is to act as a desktop wallpaper. This is accomplished by fetching images from various booru-sites (image boards) with user-defined tags.
 

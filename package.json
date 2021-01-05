@@ -48,7 +48,7 @@
     },
     "dependencies": {
         "asar": "^0.14.1",
-        "axios": "^0.17.1",
+        "axios": "^0.21.1",
         "booru": "^0.3.6",
         "debounce": "^1.2.0",
         "electron-compile": "^6.4.4",

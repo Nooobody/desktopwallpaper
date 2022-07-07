@@ -54,7 +54,7 @@
         "electron-compile": "^6.4.4",
         "ffi": "^2.2.0",
         "font-awesome": "^4.7.0",
-        "moment": "^2.20.1",
+        "moment": "^2.29.4",
         "ref-struct": "^1.1.0",
         "resize-observer-polyfill": "^1.5.0",
         "three": "^0.89.0",
